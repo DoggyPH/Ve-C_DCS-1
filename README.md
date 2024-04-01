@@ -1,4 +1,4 @@
-This is basically just a copy and paste from the notes of the module.
+This is basically just a copy and paste from the notes of the module.  
 Also this is my first ever GitHub repository so expect issues with this too.
 
 - There are some redundancies that I don't feel like fixing right now.  Tech debt, let's go !!!

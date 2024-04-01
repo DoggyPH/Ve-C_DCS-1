@@ -1,6 +1,6 @@
 # Intro
 #### This repository is my first ever one so I am still learning how to use GitHub.
-- This module is intended for the Roblox game **Ve>C**, which is a game that I am helping with.
+- This module is intended for use in the Roblox game **Ve>C**, which is a game made by @delta0009 on Discord that I am currently helping with.
 - I basically use PascalCase for everything and parenthesis around if statements, which may seem weird to some people.
 - It also uses the strict type checking version of Luau.
 
